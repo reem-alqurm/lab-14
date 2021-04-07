@@ -1,18 +1,3 @@
-# lab-14
-## Created by reem akqurm.
-
-## 1617803835914
-
-Number and name of feature:
-
-Estimate of time needed to complete: 
-
-Start time:
-
-Finish time:
-
-Actual time needed to complete: 
-
 <!-- Query 1: Create authors table -->
 CREATE TABLE authors (id SERIAL PRIMARY KEY, name VARCHAR(255));
 
